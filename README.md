@@ -2,11 +2,8 @@
 ```markdown
 # 🏠 Real Estate System
 
-![Java](https://img.shields.io/badge/Java-17-orange)
-![React](https://img.shields.io/badge/React-18-blue)
-![Spark](https://img.shields.io/badge/Spark-2.9.4-green)
-![JWT](https://img.shields.io/badge/JWT-Auth-red)
-![License](https://img.shields.io/badge/License-MIT-blue)
+Rakhmanov Ertabyldy
+
 
 ## 📋 О проекте
 
