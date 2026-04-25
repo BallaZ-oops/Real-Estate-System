@@ -1,4 +1,3 @@
-Вот полностью готовый файл `README.md`. Скопируй его целиком и вставь на GitHub:
 
 ```markdown
 # 🏠 Real Estate System
