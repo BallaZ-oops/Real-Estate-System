@@ -1,12 +1,19 @@
+
 ```markdown
 Автор:
 Rakhmanov Ertabyldy
 ```
 
+<img width="1919" height="890" alt="Снимок экрана 2026-04-25 220253" src="https://github.com/user-attachments/assets/218869e4-536c-4fc9-8dbb-89f62ba973b2" />
+<img width="1919" height="847" alt="Снимок экрана 2026-04-25 220306" src="https://github.com/user-attachments/assets/49190e23-5258-425e-bfd8-6764e79b0632" />
+<img width="1919" height="921" alt="Снимок экрана 2026-04-25 221349" src="https://github.com/user-attachments/assets/e071aa98-343d-4041-99cc-5d94ec38b379" />
+<img width="1919" height="929" alt="Снимок экрана 2026-04-25 221338" src="https://github.com/user-attachments/assets/2b30a166-0902-4c98-8244-52d3a346de1d" />
+<img width="1919" height="929" alt="Снимок экрана 2026-04-25 220939" src="https://github.com/user-attachments/assets/98c44dad-9451-420b-b772-9b137d3da82c" />
+
+
+
 ```markdown
 # 🏠 Real Estate System
-
-
 
 
 ## 📋 О проекте
