@@ -1,8 +1,12 @@
+```markdown
+Автор:
+Rakhmanov Ertabyldy
+```
 
 ```markdown
 # 🏠 Real Estate System
 
-Rakhmanov Ertabyldy
+
 
 
 ## 📋 О проекте
